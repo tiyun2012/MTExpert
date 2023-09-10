@@ -1,0 +1,40 @@
+0	04:54:11.880	Custom indicator ZigZag XAUUSD,M1: loaded successfully
+0	04:54:11.899	Custom indicator hightlightSections XAUUSD,M1: loaded successfully
+0	04:54:12.233	ZigZag XAUUSD,M1: initialized
+0	04:54:12.255	hightlightSections XAUUSD,M1: initialized
+0	04:55:47.568	ZigZag XAUUSD,M1: uninit reason 3
+0	04:55:47.568	hightlightSections XAUUSD,M1: uninit reason 3
+0	04:55:47.672	ZigZag XAUUSD,H1: initialized
+0	04:55:47.673	hightlightSections XAUUSD,H1: initialized
+0	05:01:10.860	Custom indicator scalpingZone XAUUSD,H1: loaded successfully
+0	05:01:13.062	scalpingZone XAUUSD,H1: initialized
+0	05:01:22.952	scalpingZone XAUUSD,H1: uninit reason 1
+0	05:01:22.956	Custom indicator scalpingZone XAUUSD,H1: removed
+0	05:01:52.758	Custom indicator hightlightSections XAUUSD,H1: loaded successfully
+0	05:02:06.729	hightlightSections XAUUSD,H1: initialized
+0	05:02:23.498	ZigZag XAUUSD,H1: uninit reason 1
+0	05:02:23.502	Custom indicator ZigZag XAUUSD,H1: removed
+0	05:03:43.220	hightlightSections XAUUSD,H1: uninit reason 3
+0	05:03:43.220	hightlightSections XAUUSD,H1: uninit reason 3
+0	05:03:43.325	hightlightSections XAUUSD,M5: initialized
+0	05:03:43.327	hightlightSections XAUUSD,M5: initialized
+0	05:03:52.707	hightlightSections XAUUSD,M5: uninit reason 3
+0	05:03:52.707	hightlightSections XAUUSD,M5: uninit reason 3
+0	05:03:52.850	hightlightSections XAUUSD,M15: initialized
+0	05:03:52.852	hightlightSections XAUUSD,M15: initialized
+0	05:03:53.475	hightlightSections XAUUSD,M15: uninit reason 3
+0	05:03:53.475	hightlightSections XAUUSD,M15: uninit reason 3
+0	05:03:53.479	hightlightSections XAUUSD,M1: initialized
+0	05:03:53.480	hightlightSections XAUUSD,M1: initialized
+0	05:14:39.844	hightlightSections XAUUSD,M1: uninit reason 3
+0	05:14:39.844	hightlightSections XAUUSD,M1: uninit reason 3
+0	05:14:39.848	hightlightSections XAUUSD,H1: initialized
+0	05:14:39.849	hightlightSections XAUUSD,H1: initialized
+0	05:15:39.236	hightlightSections XAUUSD,H1: uninit reason 3
+0	05:15:39.236	hightlightSections XAUUSD,H1: uninit reason 3
+0	05:15:39.279	hightlightSections XAUUSD,Daily: initialized
+0	05:15:39.280	hightlightSections XAUUSD,Daily: initialized
+0	05:19:32.453	hightlightSections XAUUSD,Daily: uninit reason 9
+0	05:19:32.453	hightlightSections XAUUSD,Daily: uninit reason 9
+0	05:19:32.501	Custom indicator hightlightSections XAUUSD,Daily: removed
+0	05:19:32.504	Custom indicator hightlightSections XAUUSD,Daily: removed
