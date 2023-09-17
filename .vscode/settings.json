@@ -1,0 +1,67 @@
+{
+    "C_Cpp.default.includePath": [
+        "${workspaceFolder}/**",
+        "${workspaceFolder}/Include"
+    ],
+    
+    "C_Cpp.default.compilerPath": "",
+    "C_Cpp.default.intelliSenseMode": "gcc-x64",
+    "C_Cpp.errorSquiggles": "disabled",
+    "C_Cpp.autocompleteAddParentheses": true,
+    "mql_tools.context": true,
+    "files.exclude": {
+        "**/*.ex4": true,
+        "**/*.ex5": true
+    },
+    "files.associations": {
+        "*.mqh": "cpp",
+        "*.mq4": "cpp",
+        "*.mq5": "cpp"
+    },
+    "C_Cpp.default.forcedInclude": [
+        "c:\\Users\\Anh Nhat\\.vscode\\extensions\\l-i-v.mql-tools-2.0.2\\data\\mql4_en.mqh"
+    ],
+    // "mql_tools.LogFile.NameLog": "Nhat.log",// this will store ouput information to the file Nhat.log in the same director of compliled files 
+    "mql_tools.LogFile.NameLog": "",// this will create a log in Logs folder,
+    "mql_tools.LogFile.DeleteLog": false,
+    "mql_tools.Metaeditor.Metaeditor4Dir": "'C:\\Program Files\\MetaTrader\\MetaEditor64.exe'",
+    "mql_tools.Metaeditor.Metaeditor5Dir": "\"C:\\Program Files\\MetaTrader\\terminal64.exe\"",
+    "vsicons.customIconFolderPath": "c:\\Users\\Anh Nhat\\.vscode\\extensions\\mql-tools-icons",
+    "vsicons.associations.files": [
+        {
+            "icon": "mq4",
+            "extensions": [
+                "mq4"
+            ],
+            "format": "svg"
+        },
+        {
+            "icon": "mq5",
+            "extensions": [
+                "mq5"
+            ],
+            "format": "svg"
+        },
+        {
+            "icon": "mqh",
+            "extensions": [
+                "mqh"
+            ],
+            "format": "svg"
+        },
+        {
+            "icon": "ex4",
+            "extensions": [
+                "ex4"
+            ],
+            "format": "svg"
+        },
+        {
+            "icon": "ex5",
+            "extensions": [
+                "ex5"
+            ],
+            "format": "svg"
+        }
+    ],
+}
