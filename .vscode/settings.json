@@ -25,7 +25,7 @@
     "mql_tools.LogFile.NameLog": "",// this will create a log in Logs folder,
     "mql_tools.LogFile.DeleteLog": false,
     "mql_tools.Metaeditor.Metaeditor4Dir": "'C:\\Program Files\\MetaTrader\\MetaEditor64.exe'",
-    "mql_tools.Metaeditor.Metaeditor5Dir": "\"C:\\Program Files\\MetaTrader\\terminal64.exe\"",
+    // "mql_tools.Metaeditor.Metaeditor5Dir": "\"C:\\Program Files\\MetaTrader\\terminal64.exe\"",//  this is for mq5
     "vsicons.customIconFolderPath": "c:\\Users\\Anh Nhat\\.vscode\\extensions\\mql-tools-icons",
     "vsicons.associations.files": [
         {
